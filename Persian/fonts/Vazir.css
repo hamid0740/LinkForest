@@ -1,0 +1,59 @@
+@font-face{
+  font-family: "Vazir";
+  font-weight: 100;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@master/dist/Vazir-Thin.eot"),
+  url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@master/dist/Vazir-Thin.woff2") format("woff2"),
+  url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@master/dist/Vazir-Thin.woff") format("woff"),
+  url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@master/dist/Vazir-Thin.ttf") format("truetype");
+}
+
+@font-face{
+  font-family: "Vazir";
+  font-weight: 300;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@master/dist/Vazir-Light.eot"),
+  url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@master/dist/Vazir-Light.woff2") format("woff2"),
+  url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@master/dist/Vazir-Light.woff") format("woff"),
+  url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@master/dist/Vazir-Light.ttf") format("truetype");
+}
+
+@font-face{
+  font-family: "Vazir";
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@master/dist/Vazir-Regular.eot"),
+  url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@master/dist/Vazir-Regular.woff2") format("woff2"),
+  url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@master/dist/Vazir-Regular.woff") format("woff"),
+  url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@master/dist/Vazir-Regular.ttf") format("truetype");
+}
+
+@font-face{
+  font-family: "Vazir";
+  font-weight: 500;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@master/dist/Vazir-Medium.eot"),
+  url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@master/dist/Vazir-Medium.woff2") format("woff2"),
+  url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@master/dist/Vazir-Medium.woff") format("woff"),
+  url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@master/dist/Vazir-Medium.ttf") format("truetype");
+}
+
+@font-face{
+  font-family: "Vazir";
+  font-weight: 700;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@master/dist/Vazir-Bold.eot"),
+  url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@master/dist/Vazir-Bold.woff2") format("woff2"),
+  url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@master/dist/Vazir-Bold.woff") format("woff"),
+  url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@master/dist/Vazir-Bold.ttf") format("truetype");
+}
+
+@font-face{
+  font-family: "Vazir";
+  font-weight: 900;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@master/dist/Vazir-Black.eot"),
+  url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@master/dist/Vazir-Black.woff2") format("woff2"),
+  url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@master/dist/Vazir-Black.woff") format("woff"),
+  url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@master/dist/Vazir-Black.ttf") format("truetype");
+}
