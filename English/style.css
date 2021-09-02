@@ -1,6 +1,5 @@
 /* Style Settings */
 @import url('https://fonts.googleapis.com/css?family=Karla:400,600,700&display=swap');
-@import url('fonts/Vazir.css');
 :root{
   --bg-color: #fff;
   --bg-color-rgb: 255, 255, 255;
@@ -31,7 +30,7 @@
   --pinterest: #e60023;
   --youtube: #ff0000;
   --twitch: #6441a5;
-  --font: 'Karla' ,'Vazir', sans-Serif;
+  --font: 'Karla', sans-Serif;
 }
 
 body{
