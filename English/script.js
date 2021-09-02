@@ -10,7 +10,7 @@ function themeToggleStart(){
   const currentTheme = localStorage.getItem("theme");
   if (currentTheme == "dark"){
     document.body.classList.add("dark");
-     document.getElementById("switch-text").innerHTML = '<i class="far fa-moon"></i>';
+    document.getElementById("switch-text").innerHTML = '<i class="far fa-moon"></i>';
   }
 }
 
@@ -32,7 +32,7 @@ function iconClick(id){
   /* Icon shrink and grow on click */
   document.getElementById(id).classList.add(id + "-small");
   setTimeout(function(){
-    document.getElementById(id).classList.remove(id + "-small"); }, 250);
+    document.getElementById(id).classList.remove(id + "-small"); }, 300);
 }
 
 function viewCount(){
@@ -43,14 +43,14 @@ function viewCount(){
     localStorage.view = 1;
   }
   if (Number(localStorage.view) % 25 == 0){
-    swal("ایستر اِگ!", "شما لینک‌فارست من را " + localStorage.view + " بار مشاهده کردید.", "info"); /* #Customisable */
+    swal("Easter Egg!", "You have viewed my LinkForest " + localStorage.view + " times.", "info"); /* #Customisable */
   }
 }
 
 function visit(response){
   /* User's number in total visits of this LinkForest */
   if (Number(response.value) % 100 == 0){
-    swal("ایستر اِگ ویژه!", "شما نفرِ " + response.value + "# هستید که لینک‌فارست من را مشاهده می‌کند.", "info"); /* #Customisable */
+    swal("Special Easter Egg!", "You are #" + response.value + " visiting my LinkForet.", "info"); /* #Customisable */
   }
 }
 
@@ -65,7 +65,7 @@ function copy(text){
   el.select();
   document.execCommand('copy');
   document.body.removeChild(el);
-  swal("موفقیت آمیز!", "'" + text + "'" + " با موفقیت در کلیپ‌بورد کپی شد.", "success");
+  swal("Success!", "'" + text + "'" + " copied to clipboard.", "success");
 }
 
 function onScroll(){
