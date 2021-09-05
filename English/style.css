@@ -81,6 +81,9 @@ body.dark img{
   font-family: var(--font);
   vertical-align: middle;
 }
+.header-text::after{
+  content: "LinkForest";
+}
 
 .header-photo{
   display: inline-block;
@@ -88,6 +91,10 @@ body.dark img{
   width: 2rem;
   height: 2rem;
   vertical-align: middle;
+  background-image: url("https://cdn.jsdelivr.net/gh/hamid0740/LinkForest@main/logo.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
 }
 
 .sticky{
