@@ -45,47 +45,49 @@ Also you need to change every text in **index.html** file starting with `$`. For
 
 - **All available colors:** *(use them as class of link element)*
 
-    ![#45d46e](https://via.placeholder.com/20/45d46e/ffffff?text=+) `green` `paypal`
+    ![#45d46e](https://img.shields.io/badge/-text-45d46e?style=flat-square) `green` `paypal`
 
-    ![#0080ff](https://via.placeholder.com/20/0080ff/ffffff?text=+) `blue`
+    ![#0080ff](https://img.shields.io/badge/-text-0080ff?style=flat-square) `blue`
 
-    ![#9d02e7](https://via.placeholder.com/20/9d02e7/ffffff?text=+) `purple`
+    ![#9d02e7](https://img.shields.io/badge/-text-9d02e7?style=flat-square) `purple`
 
-    ![#ff63b4](https://via.placeholder.com/20/ff63b4/ffffff?text=+) `pink`
+    ![#ff63b4](https://img.shields.io/badge/-text-ff63b4?style=flat-square) `pink`
 
-    ![#f20716](https://via.placeholder.com/20/f20716/ffffff?text=+) `red`
+    ![#f20716](https://img.shields.io/badge/-text-f20716?style=flat-square) `red`
 
-    ![#ff7d2d](https://via.placeholder.com/20/ff7d2d/ffffff?text=+) `orange`
+    ![#ff7d2d](https://img.shields.io/badge/-text-ff7d2d?style=flat-square) `orange`
 
-    ![#fad223](https://via.placeholder.com/20/fad223/ffffff?text=+) `yellow`
+    ![#fad223](https://img.shields.io/badge/-text-fad223?style=flat-square) `yellow`
 
-    ![#f4d7af](https://via.placeholder.com/20/f4d7af/ffffff?text=+) `cream` `clubhouse`
+    ![#f4d7af](https://img.shields.io/badge/-text-f4d7af?style=flat-square) `cream` `clubhouse`
 
-    ![#753422](https://via.placeholder.com/20/753422/ffffff?text=+) `brown`
+    ![#753422](https://img.shields.io/badge/-text-753422?style=flat-square) `brown`
 
-    ![#646464](https://via.placeholder.com/20/646464/ffffff?text=+) `gray` `github` `stack-overflow` `crowdin`
+    ![#646464](https://img.shields.io/badge/-text-646464?style=flat-square) `gray` `github` `stack-overflow` `crowdin`
 
-    ![#128c7e](https://via.placeholder.com/20/128c7e/ffffff?text=+) `whatsapp`
+    ![#128c7e](https://img.shields.io/badge/-text-128c7e?style=flat-square) `whatsapp`
 
-    ![#4995be](https://via.placeholder.com/20/4995be/ffffff?text=+) `telegram`
+    ![#4995be](https://img.shields.io/badge/-text-4995be?style=flat-square) `telegram`
 
-    ![#f43b86](https://via.placeholder.com/20/f43b86/ffffff?text=+) `instagram`
+    ![#f43b86](https://img.shields.io/badge/-text-f43b86?style=flat-square) `instagram`
 
-    ![#7289da](https://via.placeholder.com/20/7289da/ffffff?text=+) `discord`
+    ![#7289da](https://img.shields.io/badge/-text-7289da?style=flat-square) `discord`
 
-    ![#1da1f2](https://via.placeholder.com/20/1da1f2/ffffff?text=+) `twitter`
+    ![#1da1f2](https://img.shields.io/badge/-text-1da1f2?style=flat-square) `twitter`
 
-    ![#4267b2](https://via.placeholder.com/20/4267b2/ffffff?text=+) `facebook`
+    ![#4267b2](https://img.shields.io/badge/-text-4267b2?style=flat-square) `facebook`
 
-    ![#69c9d0](https://via.placeholder.com/20/69c9d0/ffffff?text=+) `tiktok`
+    ![#69c9d0](https://img.shields.io/badge/-text-69c9d0?style=flat-square) `tiktok`
 
-    ![#ff4500](https://via.placeholder.com/20/ff4500/ffffff?text=+) `reddit`
+    ![#ff4500](https://img.shields.io/badge/-text-ff4500?style=flat-square) `reddit`
 
-    ![#e60023](https://via.placeholder.com/20/e60023/ffffff?text=+) `pinterest`
+    ![#e60023](https://img.shields.io/badge/-text-e60023?style=flat-square) `pinterest`
 
-    ![#ff0000](https://via.placeholder.com/20/ff0000/ffffff?text=+) `youtube`
+    ![#ff0000](https://img.shields.io/badge/-text-ff0000?style=flat-square) `youtube`
 
-    ![#6441a5](https://via.placeholder.com/20/6441a5/ffffff?text=+) `twitch`
+    ![#6441a5](https://img.shields.io/badge/-text-6441a5?style=flat-square) `twitch`
+
+    ![custom-color](https://img.shields.io/badge/-%3F-grey?style=flat-square) `custom-color`
 
     You can also use 1 custom color. To do, search for `$CustomColor` in **index.html** file and replace it with your desirable custom color code (for example: `#fe28a9`).
 
@@ -112,7 +114,7 @@ Also you need to change every text in **index.html** file starting with `$`. For
 
 - **Set a picture for a link**
     ![Screenshot](https://i.ibb.co/VQsgVD1/Link-Forest-link-image.jpg)
-    *Instead of `link-image-l` you can use `link-image-r` to swap the side of image icon. Also you need to change `$ImageLink`.*
+    *Instead of `link-image-l` you can use `link-image-r` to swap the side of image. Also you need to change `$ImageLink`.*
 
 ```HTML
 <i class="link-image-l" style="background-image: url('$ImageLink')"></i>
