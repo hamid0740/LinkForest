@@ -89,6 +89,7 @@ Also you need to change every text in **index.html** file starting with `$`. For
 - **Custom icon-image (svg, png) as link icon:**
     ![Screenshot](https://i.ibb.co/KbDgTCv/Link-Forest-link-icon-image.jpg)
     *Instead of `link-icon-image-l` you can use `link-icon-image-r` to swap the side of image icon. Also you need to change `$IconImageLink`.*
+
 ```HTML
 <i class="link-icon-image-l" style="background-image: url('$IconImageLink')"></i>
 ```
@@ -96,6 +97,7 @@ Also you need to change every text in **index.html** file starting with `$`. For
 - **Set a picture for a link**
     ![Screenshot](https://i.ibb.co/VQsgVD1/Link-Forest-link-image.jpg)
     *Instead of `link-image-l` you can use `link-image-r` to swap the side of image icon. Also you need to change `$ImageLink`.*
+
 ```HTML
 <i class="link-image-l" style="background-image: url('$ImageLink')"></i>
 ```
