@@ -1,4 +1,4 @@
-<a href="#"><p align="center"><img src="https://cdn.jsdelivr.net/gh/hamid0740/LinkForest@main/logo.png" width="100px"></p></a>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/hamid0740/LinkForest@main/logo.png" width="100px"></p>
 <h1 align="center">LinkForest</h1>
 An HTML template to gather all of your links in one place.
 <li><a href="" target="_blank">View live demo</a></li>
@@ -77,6 +77,7 @@ Also you need to change every text in **index.html** file starting with `$`. For
 - **New Custom section & link:**
 
     *You must change `$SectionName`, `$Color`, `$Link`, `$FontAwsomeIcon` & `$LinkText`. Also you can swap place of icon with right, or use both sides for 2 icons.*
+
 ```HTML
 <p class="section-name">$SectionName</p>
 <a class="link $Color" href="$Link" target="_blank">
