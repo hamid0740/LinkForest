@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/hamid0740/LinkForest@main/logo.png" width="100px"></p>
+<p align="center"><img src="https://hamid0740.github.io/LinkForest/logo.png" width="100px"></p>
 <h1 align="center">LinkForest</h1>
 An HTML template to gather all of your links in one place.
 <li><a href="" target="_blank">View live demo</a></li>
