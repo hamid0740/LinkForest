@@ -99,6 +99,7 @@ Also you need to change every text in **index.html** file starting with `$`. For
 ```HTML
 <i class="link-image-l" style="background-image: url('$ImageLink')"></i>
 ```
+
 ## How many...?
 #### How many people have seen a LinkForest user's page?
 
