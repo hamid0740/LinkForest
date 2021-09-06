@@ -1,6 +1,5 @@
 <p align="center" vertical-align="middle">
-<a href=""><img src="https://img.shields.io/badge/lang-en__US-green"></a>
-<a href="README-fa_IR.md"><img src="https://img.shields.io/badge/lang-fa__IR-green"></a>
+<a href="README_fa_IR.md"><img src="https://img.shields.io/badge/lang-fa__IR-green"></a>
 <a href="#"><img src="https://img.shields.io/badge/version-3.1.0-blue"></a>
 </p>
 
