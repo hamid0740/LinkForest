@@ -1,5 +1,5 @@
-<p align="center" vertical-align="middle">
-  <a href=""><img src="https://img.shields.io/badge/lang-en__US-blueviolet"></a>
+<p align="center">
+  <a href="README.md"><img src="https://img.shields.io/badge/lang-en__US-blueviolet"></a>
 </p>
 
 - - - -
