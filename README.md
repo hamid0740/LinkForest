@@ -1,14 +1,26 @@
+<p align="center" vertical-align="middle">
+<a href="https://hamid0740.github.io/LinkForest/English/README.md"><img src="https://img.shields.io/badge/lang-en__US-green"></a>
+<a href="https://hamid0740.github.io/LinkForest/Persian/README.md"><img src="https://img.shields.io/badge/lang-fa__IR-green"></a>
+<a href="#"><img src="https://img.shields.io/badge/version-3.1.0-blue"></a>
+</p>
+
+- - - -
 <p align="center"><img src="https://hamid0740.github.io/LinkForest/logo.png" width="100px"></p>
 <h1 align="center">LinkForest</h1>
 An HTML template to gather all of your links in one place.
 <li><a href="https://hamid0740.github.io/LinkForest/English" target="_blank">View live demo (English)</a></li>
-<li><a href="https://hamid0740.github.io/LinkForest/Persian" target="_blank">مشاهده پیش‌نمایش (فارسی)</a></li>
-<li><a href="https://linkforest.neocities.org" target="_blank">سایت فارسی</a></li>
 
-## What is LinkForest?
+
+## 🌲What is LinkForest?
 Well, as you all know, most social medias support only 1 link in the profile bio. So LinkForest is developed to expand the ability of that link. Also It is completely free, open source & customizable.
 
-## Features
+
+## 📥Download
+- [🇺🇲 English]()
+- [🇮🇷 Persian]()
+
+
+## 👀Features
 - Dark theme support
 - Sharing ability
 - Custom icons, SVGs & pictures for a link
@@ -16,7 +28,8 @@ Well, as you all know, most social medias support only 1 link in the profile bio
 - Small icons on the page bottom (good for those who have a lot of links and social media links might be lost among them)
 - 2 Easter eggs!
 
-## How to use?
+
+## ⚙How to use?
 The only thing you need, is a web hosting service (it doesn't matter to use a free or paid service). Then easily by customizing and uploading the customized template on the host, it will be usable for profile bio.
 
 <b>Some free web hosting services:</b>
@@ -24,8 +37,9 @@ The only thing you need, is a web hosting service (it doesn't matter to use a fr
 <li><a href="https://netlify.com" target="_blank">Netlify</a></li>
 <li><a href="https://neocities.org" target="_blank">Neocities</a></li>
 
-## How to Customize?
-To customize you need a little knowledge of Front-end developing. Then by following instructions below you can customize the template. If you are a little bit more skilled, you can easily edit CSS and JS files.
+
+## 🎨How to Customize?
+To customize, you need a little knowledge of Front-end developing. Then by following instructions below you can customize the template. If you are a little bit more skilled, you can easily edit CSS and JS files.
 
 Also you need to change every text in **index.html** file starting with `$`. For example if I see `$Username` in **index.html** file, I will change it with `hamid0740`.
 
@@ -104,12 +118,17 @@ Also you need to change every text in **index.html** file starting with `$`. For
 <i class="link-image-l" style="background-image: url('$ImageLink')"></i>
 ```
 
-## How many...?
+
+## 👥How many...?
 > How many people have seen a LinkForest user's page?
 >> ![](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Seen&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2FLinkForest%2F&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjNGNjNTFlIiBkPSJNMTUgMTJjMCAxLjY1NC0xLjM0NiAzLTMgM3MtMy0xLjM0Ni0zLTMgMS4zNDYtMyAzLTMgMyAxLjM0NiAzIDN6bTktLjQ0OXMtNC4yNTIgOC40NDktMTEuOTg1IDguNDQ5Yy03LjE4IDAtMTIuMDE1LTguNDQ5LTEyLjAxNS04LjQ0OXM0LjQ0Ni03LjU1MSAxMi4wMTUtNy41NTFjNy42OTQgMCAxMS45ODUgNy41NTEgMTEuOTg1IDcuNTUxem0tNyAuNDQ5YzAtMi43NTctMi4yNDMtNS01LTVzLTUgMi4yNDMtNSA1IDIuMjQzIDUgNSA1IDUtMi4yNDMgNS01eiIvPjwvc3ZnPg==)
 
 
-## External resources
+## 📝How to contribute?
+Every contribution is welcomed. Just open a [pull request](https://github.com/hamid0740/LinkForest/pulls) and submit your codes there. Once accepted, your codes will be added. Also if you have any ideas that can make this template better, submit an [issue](https://github.com/hamid0740/LinkForest/issues) describing your idea.
+
+
+## 🧰External resources
 These are all external resources used in LinkForest:
 - [Font Awesome (for icons)](https://fontawesome.com)
 - [AddToAny (for sharing)](https://addtoany.com)
