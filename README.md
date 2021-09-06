@@ -1,7 +1,8 @@
 <p align="center"><img src="https://hamid0740.github.io/LinkForest/logo.png" width="100px"></p>
 <h1 align="center">LinkForest</h1>
 An HTML template to gather all of your links in one place.
-<li><a href="" target="_blank">View live demo</a></li>
+<li><a href="https://hamid0740.github.io/LinkForest/English" target="_blank">View live demo (English)</a></li>
+<li><a href="https://hamid0740.github.io/LinkForest/Persian" target="_blank">مشاهده پیش‌نمایش (فارسی)</a></li>
 <li><a href="https://linkforest.neocities.org" target="_blank">سایت فارسی</a></li>
 
 ## What is LinkForest?
