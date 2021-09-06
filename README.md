@@ -19,7 +19,7 @@
 
 ## 🌲What is LinkForest?
 Well, as you all know, most social medias support only 1 link in the profile bio. So LinkForest is developed to expand the ability of that link. Also It is completely free, open source & customizable.
-- [View live demo (English)](https://hamid0740.github.io/LinkForest/English)
+- [View live demo (English)](https://hamid0740.github.io/LinkForest/English/src)
 
 
 ## 📥Download
