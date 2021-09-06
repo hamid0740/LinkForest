@@ -1,17 +1,24 @@
-<p align="center" vertical-align="middle">
-<a href="README_fa_IR.md"><img src="https://img.shields.io/badge/lang-fa__IR-green"></a>
-<a href="#"><img src="https://img.shields.io/badge/version-3.1.0-blue"></a>
+<p align="center">
+  <a href="README_fa_IR.md"><img src="https://img.shields.io/badge/lang-fa__IR-blueviolet"></a>
 </p>
 
 - - - -
 <p align="center"><img src="https://hamid0740.github.io/LinkForest/logo.png" width="100px"></p>
 <h1 align="center">LinkForest</h1>
-An HTML template to gather all of your links in one place.
-<li><a href="https://hamid0740.github.io/LinkForest/English" target="_blank">View live demo (English)</a></li>
+<p align="center">
+  An HTML template to gather all of your links in one place.
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/github/v/release/hamid0740/LinkForest"></a>
+  <a href="#download"><img src="https://img.shields.io/github/downloads/hamid0740/LinkForest/total"></a>
+  <a href="https://github.com/hamid0740/LinkForest/blob/master/LICENSE"><img src="https://img.shields.io/github/license/hamid0740/LinkForest"></a>
+</p>
 
 
 ## 🌲What is LinkForest?
 Well, as you all know, most social medias support only 1 link in the profile bio. So LinkForest is developed to expand the ability of that link. Also It is completely free, open source & customizable.
+- [View live demo (English)](https://hamid0740.github.io/LinkForest/English)
 
 
 ## 📥Download
@@ -25,16 +32,16 @@ Well, as you all know, most social medias support only 1 link in the profile bio
 - Custom icons, SVGs & pictures for a link
 - Custom colors for links
 - Small icons on the page bottom (good for those who have a lot of links and social media links might be lost among them)
-- 2 Easter eggs!
+- Easter eggs!
 
 
 ## ⚙How to use?
 The only thing you need, is a web hosting service (it doesn't matter to use a free or paid service). Then easily by customizing and uploading the customized template on the host, it will be usable for profile bio.
 
-<b>Some free web hosting services:</b>
-<li><a href="https://pages.github.com" target="_blank">GitHub Pages</a></li>
-<li><a href="https://netlify.com" target="_blank">Netlify</a></li>
-<li><a href="https://neocities.org" target="_blank">Neocities</a></li>
+**Some free web hosting services:**
+- <a href="https://pages.github.com" target="_blank">GitHub Pages</a>
+- <a href="https://netlify.com" target="_blank">Netlify</a>
+- <a href="https://neocities.org" target="_blank">Neocities</a>
 
 
 ## 🎨How to Customize?
