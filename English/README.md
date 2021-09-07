@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://github.com/hamid0740/LinkForest"><img src="https://img.shields.io/badge/page-main-violet"></a>
-  <a href="../Persian"><img src="https://img.shields.io/badge/lang-fa__IR-blueviolet"></a>
+  <a href="https://github.com/hamid0740/LinkForest"><img src="https://img.shields.io/badge/page-main-purple?style=plastic"></a>
+  <a href="../Persian"><img src="https://img.shields.io/badge/lang-fa__IR-blueviolet?style=plastic"></a>
 </p>
 
 - - - -
-<p align="center"><img src="https://hamid0740.github.io/LinkForest/logo.png" width="150px"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/hamid0740/LinkForest@main/logo.png" width="150px"></p>
 <h1 align="center">LinkForest</h1>
 <p align="center">
 An HTML template to gather all of your links in one place
