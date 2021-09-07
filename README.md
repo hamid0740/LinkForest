@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="English"><img src="https://img.shields.io/badge/lang-en__US-blueviolet"></a>
   <a href="Persian"><img src="https://img.shields.io/badge/lang-fa__IR-blueviolet"></a>
 </p>
 
