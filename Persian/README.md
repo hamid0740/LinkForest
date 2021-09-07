@@ -3,7 +3,7 @@
 </p>
 
 - - - -
-<p align="center"><img src="https://hamid0740.github.io/LinkForest/logo.png" width="100px"></p>
+<p align="center"><img src="https://hamid0740.github.io/LinkForest/logo.png" width="150px"></p>
 <h1 dir="rtl" align="center">لینک‌فارست</h1>
 <p dir="rtl" align="center">
   یک قالب HTML برای جمع‌آوری همه لینک‌های شما در یک جا
@@ -102,7 +102,7 @@
 
 <li dir="rtl" align="right"><strong>آیکون-تصویر شخصی (svg, png) به عنوان آیکونِ لینک</strong></li>
 <img alt="Screenshot" src="https://i.ibb.co/KbDgTCv/Link-Forest-link-icon-image.jpg" align="right">
-<p dir="rtl" align="right"><em>به جای کلاسِ <code>link-icon-image-r</code> می‌توانید از کلاسِ <code>link-icon-image-l</code> استفاده کنید تا آیکون-تصویر را به سمت چپ انتقال دهید. همچنین باید عبارت <code>$IconImageLink</code> را با لینک آیکون-تصویر جایگزین کنید.</em></p>
+<p dir="rtl" align="right"><em>به جای کلاسِ <code>link-icon-image-r</code> می‌توانید از کلاسِ <code>link-icon-image-l</code> استفاده کنید تا آیکون-تصویر را به سمت چپ انتقال دهید. همچنین باید عبارت <code dir="ltr">$IconImageLink</code> را با لینک آیکون-تصویر جایگزین کنید.</em></p>
 
 ```HTML
 <i class="link-icon-image-r" style="background-image: url('$IconImageLink')"></i>
@@ -110,7 +110,7 @@
 
 <li dir="rtl" align="right"><strong>قرار دادن تصویر برای لینک</strong></li>
 <img alt="Screenshot" src="https://i.ibb.co/VQsgVD1/Link-Forest-link-image.jpg" align="right">
-<p dir="rtl" align="right"><em>به جای کلاسِ <code>link-image-r</code> می‌توانید از کلاسِ <code>link-image-l</code> استفاده کنید تا تصویرِ لینک را به سمت چپ انتقال دهید. همچنین باید عبارت <code>$IconImageLink</code> را با لینک تصویر جایگزین کنید.</em></p>
+<p dir="rtl" align="right"><em>به جای کلاسِ <code>link-image-r</code> می‌توانید از کلاسِ <code>link-image-l</code> استفاده کنید تا تصویرِ لینک را به سمت چپ انتقال دهید. همچنین باید عبارت <code dir="ltr">$IconImageLink</code> را با لینک تصویر جایگزین کنید.</em></p>
 
 ```HTML
 <i class="link-image-r" style="background-image: url('$ImageLink')"></i>
@@ -141,3 +141,8 @@
 <li dir="rtl" align="right"><a href="https://addtoany.com" target="_blank">AddToAny (برای اشتراک‌گذاری)</a></li>
 <li dir="rtl" align="right"><a href="https://sweetalert.js.org" target="_blank">Sweet Alert (برای پنجره‌های هشدار بهتر)</a></li>
 <li dir="rtl" align="right"><a href="https://countapi.xyz" target="_blank">CountAPI (برای ایستر اِگ‌ها)</a></li>
+
+<h2 dir="rtl" align="right">💳حمایت مالی</h2>
+<p align="center"><a href="https://idpay.ir/LinkForest">
+<img src="https://idpay.ir/logo.svg" height="40px">
+</a></p>
