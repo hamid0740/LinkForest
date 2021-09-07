@@ -13,7 +13,7 @@ An HTML template to gather all of your links in one place
 <p align="center">
   <a href="#"><img src="https://img.shields.io/github/v/release/hamid0740/LinkForest"></a>
   <a href="#download"><img src="https://img.shields.io/github/downloads/hamid0740/LinkForest/total"></a>
-  <a href="https://github.com/hamid0740/LinkForest/LICENSE"><img src="https://img.shields.io/github/license/hamid0740/LinkForest"></a>
+  <a href="https://github.com/hamid0740/LinkForest/blob/main/LICENSE"><img src="https://img.shields.io/github/license/hamid0740/LinkForest"></a>
 </p>
 
 
