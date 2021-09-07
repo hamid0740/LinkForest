@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="../"><img src="https://img.shields.io/badge/lang-en__US-blueviolet"></a>
+  <a href="../"><img src="https://img.shields.io/badge/lang-en__US-blueviolet?style=plastic"></a>
 </p>
 
 - - - -
-<p align="center"><img src="https://hamid0740.github.io/LinkForest/logo.png" width="150px"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/hamid0740/LinkForest@main/logo.png" width="150px"></p>
 <h1 dir="rtl" align="center">لینک‌فارست</h1>
 <p dir="rtl" align="center">
   یک قالب HTML برای جمع‌آوری همه لینک‌های شما در یک جا
