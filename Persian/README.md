@@ -25,8 +25,8 @@
 
 
 <h2 dir="rtl" align="right">📥دانلود</h2>
-<li dir="rtl" align="right"><a href="">🇮🇷 فارسی</a></li>
-<li dir="rtl" align="right"><a href="">🇺🇲 انگلیسی</a></li>
+<li dir="rtl" align="right"><a href="https://github.com/hamid0740/LinkForest/releases/download/v3.1.0/LinkForest-Persian-v3.1.0.zip">🇮🇷 فارسی</a></li>
+<li dir="rtl" align="right"><a href="https://github.com/hamid0740/LinkForest/releases/download/v3.1.0/LinkForest-English-v3.1.0.zip">🇺🇲 انگلیسی</a></li>
 
 
 <h2 dir="rtl" align="right">👀ویژگی‌ها</h2>
