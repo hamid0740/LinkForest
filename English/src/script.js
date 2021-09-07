@@ -1,3 +1,8 @@
+// LinkForest template
+// Version: 3.1.0
+// Developer: hamid0740
+// GitHub: https://github.com/hamid0740/LinkForest
+
 window.onload = viewCount;
 function themeToggleStart(){
   /* First time loads theme based on browser preferred theme */
