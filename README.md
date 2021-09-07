@@ -3,10 +3,10 @@
 </p>
 
 - - - -
-<p align="center"><img src="https://hamid0740.github.io/LinkForest/logo.png" width="100px"></p>
+<p align="center"><img src="https://hamid0740.github.io/LinkForest/logo.png" width="150px"></p>
 <h1 align="center">LinkForest</h1>
 <p align="center">
-  An HTML template to gather all of your links in one place.
+An HTML template to gather all of your links in one place
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ The only thing you need, is a web hosting service (it doesn't matter to use a fr
 ## 🎨How to Customize?
 To customize, you need a little knowledge of Front-end developing. Then by following instructions below you can customize the template. If you are a little bit more skilled, you can easily edit CSS and JS files.
 
-Also you need to change every text in **index.html** file starting with `$`. For example if I see `$Username` in **index.html** file, I will change it with `hamid0740`.
+Also you need to change every text in **index.html** file starting with `$`. For example if I see `$Username` in **index.html** file, I will change it with `@hamid0740`.
 
 - **All available colors:** *(use them as class of link element)*
 
@@ -99,7 +99,7 @@ Also you need to change every text in **index.html** file starting with `$`. For
 
 - **New Custom section & link:**
 
-    *You must change `$SectionName`, `$Color`, `$Link`, `$FontAwsomeIcon` & `$LinkText`. Also you can swap place of icon with right, or use both sides for 2 icons.*
+    *You must change `$SectionName`, `$Color`, `$Link`, `$FontAwsomeIcon` & `$LinkText`. Also you can swap the place of icon to right, or use both sides for 2 icons.*
 
 ```HTML
 <p class="section-name">$SectionName</p>
@@ -112,7 +112,7 @@ Also you need to change every text in **index.html** file starting with `$`. For
 
 - **Custom icon-image (svg, png) as link icon:**
     ![Screenshot](https://i.ibb.co/KbDgTCv/Link-Forest-link-icon-image.jpg)
-    *Instead of `link-icon-image-l` you can use `link-icon-image-r` to swap the side of image icon. Also you need to change `$IconImageLink`.*
+    *Instead of `link-icon-image-l` you can use `link-icon-image-r` to swap the side of icon-image. Also you need to change `$IconImageLink` with your icon-image link.*
 
 ```HTML
 <i class="link-icon-image-l" style="background-image: url('$IconImageLink')"></i>
@@ -120,7 +120,7 @@ Also you need to change every text in **index.html** file starting with `$`. For
 
 - **Set a picture for a link**
     ![Screenshot](https://i.ibb.co/VQsgVD1/Link-Forest-link-image.jpg)
-    *Instead of `link-image-l` you can use `link-image-r` to swap the side of image. Also you need to change `$ImageLink`.*
+    *Instead of `link-image-l` you can use `link-image-r` to swap the side of image. Also you need to change `$ImageLink` with your image link.*
 
 ```HTML
 <i class="link-image-l" style="background-image: url('$ImageLink')"></i>
@@ -133,7 +133,7 @@ Also you need to change every text in **index.html** file starting with `$`. For
 
 
 ## 📝How to contribute?
-Every contribution is welcomed. Just open a [pull request](https://github.com/hamid0740/LinkForest/pulls) and submit your codes there. Once accepted, your codes will be added. Also if you have any ideas that can make this template better, submit an [issue](https://github.com/hamid0740/LinkForest/issues) describing your idea.
+Every contribution is welcomed. Just open a [Pull request](https://github.com/hamid0740/LinkForest/pulls) and submit your codes there. Once accepted, your codes will be added. Also if you have any ideas that can make this template better, submit it in [Discussions](https://github.com/hamid0740/LinkForest/discussions) section. To report any bugs or problems, open an [Issue](https://github.com/hamid0740/LinkForest/issues) describing the bug.
 
 
 ## 🧰External resources
