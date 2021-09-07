@@ -101,8 +101,7 @@
 ```
 
 <li dir="rtl" align="right"><strong>آیکون-تصویر شخصی (svg, png) به عنوان آیکونِ لینک</strong></li>
-<img alt="Screenshot" src="https://i.ibb.co/KbDgTCv/Link-Forest-link-icon-image.jpg" align="right" width="400px">
-<br>
+<img alt="Screenshot" src="https://i.ibb.co/KbDgTCv/Link-Forest-link-icon-image.jpg" align="right">
 <p dir="rtl" align="right"><em>به جای کلاسِ <code>link-icon-image-r</code> می‌توانید از کلاسِ <code>link-icon-image-l</code> استفاده کنید تا آیکون-تصویر را به سمت چپ انتقال دهید. همچنین باید عبارت <code>$IconImageLink</code> را با لینک آیکون-تصویر جایگزین کنید.</em></p>
 
 ```HTML
@@ -110,8 +109,7 @@
 ```
 
 <li dir="rtl" align="right"><strong>قرار دادن تصویر برای لینک</strong></li>
-<img alt="Screenshot" src="https://i.ibb.co/VQsgVD1/Link-Forest-link-image.jpg" align="right" width="400px">
-<br>
+<img alt="Screenshot" src="https://i.ibb.co/VQsgVD1/Link-Forest-link-image.jpg" align="right">
 <p dir="rtl" align="right"><em>به جای کلاسِ <code>link-image-r</code> می‌توانید از کلاسِ <code>link-image-l</code> استفاده کنید تا تصویرِ لینک را به سمت چپ انتقال دهید. همچنین باید عبارت <code>$IconImageLink</code> را با لینک تصویر جایگزین کنید.</em></p>
 
 ```HTML
