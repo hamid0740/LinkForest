@@ -24,8 +24,8 @@ Well, as you all know, most social medias support only 1 link in the profile bio
 
 
 ## 📥Download
-- [🇺🇲 English](https://github.com/hamid0740/LinkForest/releases/download/v3.1.0/LinkForest-English-v3.1.0.zip)
-- [🇮🇷 Persian](https://github.com/hamid0740/LinkForest/releases/download/v3.1.0/LinkForest-Persian-v3.1.0.zip)
+- [🇺🇲 English](https://github.com/hamid0740/LinkForest/releases/download/v3.1.1/LinkForest-English-v3.1.1.zip)
+- [🇮🇷 Persian](https://github.com/hamid0740/LinkForest/releases/download/v3.1.1/LinkForest-Persian-v3.1.1.zip)
 
 
 ## 👀Features
