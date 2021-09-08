@@ -96,7 +96,7 @@ Also you need to change every text in **index.html** file starting with `$`. For
 
     ![custom-color](https://img.shields.io/badge/-%3F-grey?style=flat-square) `custom-color`
 
-    You can also use 1 custom color. To do, search for `$CustomColor` in **index.html** file and replace it with your desirable custom color code (for example: `#fe28a9`).
+    You can also use custom color. To do, read the instructions below.
 
 - **New Custom section & link:**
 
@@ -110,10 +110,19 @@ Also you need to change every text in **index.html** file starting with `$`. For
   <i class="link-icon-r"></i> <!-- To make text align center, keep both 'link-icon-l' and 'link-icon-r' elements. EVEN HAVING NO ICON OR IMAGE -->
 </a>
 ```
+- **Custom color for a link**
+
+    *To have a custom color for a link, you must replace `$CustomColor` with your desirable color. Also for class of the link, you must use `custom-color`.*
+
+```HTML
+<a style="--custom-color: $CustomColor" class="link custom-color" href="$Link" target="_blank">
+  . . .
+</a>
+```
 
 - **Custom icon-image (svg, png) as link icon:**
     ![Screenshot](https://i.ibb.co/KbDgTCv/Link-Forest-link-icon-image.jpg)
-    *Instead of `link-icon-image-l` you can use `link-icon-image-r` to swap the side of icon-image. Also you need to change `$IconImageLink` with your icon-image link.*
+    *Instead of `link-icon-image-l` class, you can use `link-icon-image-r` class to swap the side of icon-image to right. Also you need to change `$IconImageLink` with your icon-image link.*
 
 ```HTML
 <i class="link-icon-image-l" style="background-image: url('$IconImageLink')"></i>
@@ -121,7 +130,7 @@ Also you need to change every text in **index.html** file starting with `$`. For
 
 - **Set a picture for a link**
     ![Screenshot](https://i.ibb.co/VQsgVD1/Link-Forest-link-image.jpg)
-    *Instead of `link-image-l` you can use `link-image-r` to swap the side of image. Also you need to change `$ImageLink` with your image link.*
+    *Instead of `link-image-l` class, you can use `link-image-r` class to swap the side of image to right. Also you need to change `$ImageLink` with your image link.*
 
 ```HTML
 <i class="link-image-l" style="background-image: url('$ImageLink')"></i>
