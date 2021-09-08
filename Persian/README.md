@@ -100,6 +100,15 @@
 </a>
 ```
 
+<li dir="rtl" align="right"><strong>رنگ شخصی برای لینک</strong></li>
+<p dir="rtl" align="right"><em>برای استفاده از رنگِ شخصی برای لینک، کافی است عبارتِ <code dir="ltr">$CustomColor</code> با رنگ مد نظرتان جایگزین کنید. همچنین باید از کلاسِ <code>custom-color</code> برای اِلِمِنتِ لینک استفاده کنید.
+
+```HTML
+<a style="--custom-color: $CustomColor;" class="link custom-color" href="$Link" target="_blank">
+  . . .
+</a>
+```
+
 <li dir="rtl" align="right"><strong>آیکون-تصویر شخصی (svg, png) به عنوان آیکونِ لینک</strong></li>
 <img alt="Screenshot" src="https://i.ibb.co/KbDgTCv/Link-Forest-link-icon-image.jpg" align="right">
 <p dir="rtl" align="right"><em>به جای کلاسِ <code>link-icon-image-r</code> می‌توانید از کلاسِ <code>link-icon-image-l</code> استفاده کنید تا آیکون-تصویر را به سمت چپ انتقال دهید. همچنین باید عبارت <code dir="ltr">$IconImageLink</code> را با لینک آیکون-تصویر جایگزین کنید.</em></p>
