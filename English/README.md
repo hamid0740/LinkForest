@@ -4,7 +4,7 @@
 </p>
 
 - - - -
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/hamid0740/LinkForest@main/logo.png" width="150px"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/hamid0740/LinkForest@main/logo.svg" width="150px"></p>
 <h1 align="center">LinkForest</h1>
 <p align="center">
 An HTML template to gather all of your links in one place
@@ -24,8 +24,8 @@ Well, as you all know, most social medias support only 1 link in the profile bio
 
 
 ## 📥Download
-- [🇺🇲 English](https://github.com/hamid0740/LinkForest/releases/download/v3.1.1/LinkForest-English-v3.1.1.zip)
-- [🇮🇷 Persian](https://github.com/hamid0740/LinkForest/releases/download/v3.1.1/LinkForest-Persian-v3.1.1.zip)
+- [🇺🇲 English](https://github.com/hamid0740/LinkForest/releases/download/v3.1.2/LinkForest-English-v3.1.2.zip)
+- [🇮🇷 Persian](https://github.com/hamid0740/LinkForest/releases/download/v3.1.2/LinkForest-Persian-v3.1.2.zip)
 
 
 ## 👀Features
