@@ -115,7 +115,7 @@ Also you need to change every text in **index.html** file starting with `$`. For
     *To have a custom color for a link, you must replace `$CustomColor` with your desirable color. Also for class of the link, you must use `custom-color`.*
 
 ```HTML
-<a style="--custom-color: $CustomColor" class="link custom-color" href="$Link" target="_blank">
+<a style="--custom-color: $CustomColor;" class="link custom-color" href="$Link" target="_blank">
   . . .
 </a>
 ```
