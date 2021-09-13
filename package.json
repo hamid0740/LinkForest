@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
     "vazir-font": "^30.1.0",
     "sweetalert": "^2.1.2",
     "countapi-js": "^1.0.2"
