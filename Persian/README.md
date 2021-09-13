@@ -153,5 +153,5 @@
 
 <h2 dir="rtl" align="right">💳حمایت مالی</h2>
 <p align="center"><a href="https://idpay.ir/LinkForest">
-<img src="https://idpay.ir/logo.svg" height="40px">
+<img src="https://static.idpay.ir/logo/logo.svg" height="40px">
 </a></p>
