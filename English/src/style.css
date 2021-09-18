@@ -2,7 +2,7 @@
 
 /*
   LinkForest template
-  Version: 3.1.2
+  Version: 3.1.4
   Language: English
   Developer: hamid0740
   GitHub: https://github.com/hamid0740/LinkForest
@@ -507,7 +507,9 @@ body.dark .link:hover{
   width: 100%;
   margin-top: 40px;
   text-align: center;
+  position: absolute;
   bottom: 0;
+  left: 0;
 }
 
 .copyright-link{
