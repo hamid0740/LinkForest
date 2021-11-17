@@ -146,8 +146,8 @@ Also you need to change every text in **index.html** file starting with `$`. For
 Every contribution is welcomed. Just open a [Pull request](https://github.com/hamid0740/LinkForest/pulls) and submit your codes there. Once accepted, your codes will be added. Also if you have any ideas that can make this template better, submit it in [Discussions](https://github.com/hamid0740/LinkForest/discussions) section. To report any bugs or problems, open an [Issue](https://github.com/hamid0740/LinkForest/issues) describing the bug.
 
 
-## 🧰External resources
-These are all external resources used in LinkForest:
+## 🧰Third party components
+These are all 3rd party components used in LinkForest:
 - [Font Awesome (for icons)](https://fontawesome.com)
 - [AddToAny (for sharing)](https://addtoany.com)
 - [Sweet Alert (for better alerts)](https://sweetalert.js.org)
