@@ -89,7 +89,7 @@
 </p>
 
 <li dir="rtl" align="right"><strong>بخش و لینک شخصی جدید:</strong></li>
-<p dir="rtl" align="right"><em>شما باید عبارت‌های <code dir="ltr">$SectionName</code>، <code dir="ltr">$Color</code>، <code dir="ltr">$Link</code>، <code dir="ltr">$FontAwesomeIcon</code> و <code dir="ltr">$LinkText</code> را با عبارت مناسب جایگزین کنید. همچنین می‌توانید محل آیکون را به چپ انتقال داده و یا از هر دو طرف برای 2 آیکون استفاده کنید.</em></p>
+<p dir="rtl" align="right">شما باید عبارت‌های <code dir="ltr">$SectionName</code>، <code dir="ltr">$Color</code>، <code dir="ltr">$Link</code>، <code dir="ltr">$FontAwesomeIcon</code> و <code dir="ltr">$LinkText</code> را با عبارت مناسب جایگزین کنید. همچنین می‌توانید محل آیکون را به چپ انتقال داده و یا از هر دو طرف برای 2 آیکون استفاده کنید.</p>
 
 ```HTML
 <p class="section-name">$SectionName</p>
@@ -101,7 +101,7 @@
 ```
 
 <li dir="rtl" align="right"><strong>رنگ شخصی برای لینک</strong></li>
-<p dir="rtl" align="right"><em>برای استفاده از رنگِ شخصی برای لینک، کافی است عبارتِ <code dir="ltr">$CustomColor</code> با رنگ مد نظرتان جایگزین کنید. همچنین باید از کلاسِ <code>custom-color</code> برای اِلِمِنتِ لینک استفاده کنید.
+<p dir="rtl" align="right">برای استفاده از رنگِ شخصی برای لینک، کافی است عبارتِ <code dir="ltr">$CustomColor</code> با رنگ مد نظرتان جایگزین کنید. همچنین باید از کلاسِ <code>custom-color</code> برای اِلِمِنتِ لینک استفاده کنید.</p>
 
 ```HTML
 <a style="--custom-color: $CustomColor;" class="link custom-color" href="$Link" target="_blank">
@@ -141,9 +141,9 @@
 </p>
 
 
-<h2 dir="rtl" align="right">🧰منابع خارجی</h2>
+<h2 dir="rtl" align="right">🧰اجزای سوم شخص</h2>
 <p dir="rtl" align="right">
-این‌ها منابع خارجی‌ای هستند که در لینک‌فارست استفاده شده‌اند:
+این‌ها اجزای سوم شخصی هستند که در لینک‌فارست استفاده شده‌اند:
 </p>
 
 <li dir="rtl" align="right"><a href="https://fontawesome.com" target="_blank">Font Awesome (برای آیکون‌ها)</a></li>
